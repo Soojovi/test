@@ -1,6 +1,10 @@
 {
 	"room": "Chillout",
-	"css": "https://rawgit.com/PossiblyKris/test/master/p3.css",
+	"css": {
+	    "import": [
+	        "https://rawgit.com/PossiblyKris/test/master/p3.css"
+	    ]
+	},
 	"rules": {
 	    "allowAutorespond": true,
 	    "allowAutowoot": true,
