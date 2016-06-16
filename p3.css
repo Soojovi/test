@@ -280,7 +280,6 @@
 }
 
 body {
-    background-size: 100% auto !important background-attachment: fixed 0px 0px !important
-} 
-
-/* Custom RDJ */
+    background-size: 100% auto !important;
+    background-attachment: fixed 0px 0px !important;
+}
