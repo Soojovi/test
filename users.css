@@ -323,7 +323,8 @@
 
 #chat-messages .fromID-3929282 .badge-box i.bdg,
 #chat-messages .id-3929282 .badge-box i.bdg {
-    background-image: url(https://chilloutmusic.fm/img/Archive/theme/Icons/Molly.gif);
+    /*background-image: url(https://chilloutmusic.fm/img/Archive/theme/Icons/Molly.gif);*/
+    background-image: url(http://i.imgur.com/vJyOrxW.png);
     background-size: cover;
 }
 
@@ -1294,6 +1295,42 @@
     border-radius: 0;
 }
 
+#chat-messages .fromID-3632408 .badge-box i,
+#chat-messages .id-3632408 .badge-box i {
+    background-image: url(http://i.imgur.com/ibvlpvy.gif);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
+
+#chat-messages .fromID-10587451 .badge-box i,
+#chat-messages .id-10587451 .badge-box i {
+    background-image: url(http://i.imgur.com/w9hPduz.png);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
+
+#chat-messages .fromID-4538423 .badge-box i,
+#chat-messages .id-4538423 .badge-box i {
+    background-image: url(http://i.imgur.com/akyG9TX.gif);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
+
 #chat-messages .fromID-3798150 .badge-box i.bdg,
 #chat-messages .id-3798150 .badge-box i.bdg {
     background-image: url(https://mitchdev.net/pdj/icons/3798150.gif);
@@ -1308,13 +1345,19 @@
 
 
 /* CUSTOM RDJs */
-.fromID-6603548 .msg .from .un:before,
-.id-6603548 .msg .from .un:before {
-    content: url("https://mitchdev.net/pdj/rdj.png") !important;
+.fromID-6603548 .msg .from .un:after,
+.id-6603548 .msg .from .un:after {
+    content: " "url("https://mitchdev.net/pdj/rdj.png") !important;
     top: 3px;
     position: relative;
 }
-#chat .fromID-6603548 .un,
+/*#chat .fromID-6603548 .un,
 #chat .id-6603548 .un {
     color: #89BE6C!important;
+}*/
+#chat .fromID-4538423 .un,
+#chat .id-4538423 .un,
+#chat .fromID-10587451 .un,
+#chat .id-10587451 .un {
+    color: #fff;
 }
