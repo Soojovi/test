@@ -1308,11 +1308,13 @@
 
 
 /* CUSTOM RDJs */
+.fromID-6603548 .msg .from .un:before,
 .id-6603548 .msg .from .un:before {
     content: url("https://mitchdev.net/pdj/rdj.png") !important;
     top: 3px;
     position: relative;
 }
+#chat .fromID-6603548 .un,
 #chat .id-6603548 .un {
     color: #89BE6C!important;
 }
