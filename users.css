@@ -2400,7 +2400,7 @@
     border-radius: 0;
 }
 
-#chat-messages .fromID-6100517 .badge-box i,
+#chat-messages .fromID-1 .badge-box i,
 #chat-messages .id-6100517 .badge-box i {
     background-image: url(https://i.imgur.com/lnzpfwg.gif);
     background-size: cover;
@@ -2435,3 +2435,16 @@
     border: none;
     border-radius: 0;
 }
+
+#chat-messages .fromID-4774047 .badge-box i,
+#chat-messages .id-4774047 .badge-box i {
+    background-image: url(https://mitchdev.net/pdj/icons/4774047.gif);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
+
