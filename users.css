@@ -1305,3 +1305,14 @@
     background-image: url(https://i.imgur.com/3I2K2m2.gif);
     background-size: cover;
 }
+
+
+/* CUSTOM RDJs */
+.id-6603548 .msg .from .un:before {
+    content: url("https://mitchdev.net/pdj/rdj.png") !important;
+    top: 3px;
+    position: relative;
+}
+#chat .id-6603548 .un {
+    color: #89BE6C!important;
+}
