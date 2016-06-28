@@ -33,7 +33,7 @@
 	    "silversubscriber": null,
 	    "subscriber": null
 	},
-	"autocomplete": ["!ping", "test",],
+	"autocomplete": ["!ping", "test"],
 	"emotes": {
 		"attempt": "http://i.imgur.com/TUrADao.png"
 	}
