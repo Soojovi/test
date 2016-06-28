@@ -5,7 +5,8 @@
 	    "allowAutorespond": true,
 	    "allowAutowoot": true,
 	    "allowAutojoin": true,
-	    "allowAutograb": true
+	    "allowAutograb": true,
+	    "allowShowingMehs": false
 	},
 	"ccc": {
 	    "ambassador": "#89be6c !important",
@@ -31,5 +32,9 @@
 	    "rdj": "https://mitchdev.net/pdj/rdj.png", 
 	    "silversubscriber": null,
 	    "subscriber": null
+	},
+	"autocomplete": ["!ping", "test",],
+	"emotes": {
+		"attempt": "http://i.imgur.com/TUrADao.png"
 	}
 }
