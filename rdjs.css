@@ -1,4 +1,14 @@
 /* CUSTOM RDJs */
+#chat .fromID-14935155 .un,
+#chat .id-14935155 .un,
+#chat .fromID-4866227 .un,
+#chat .id-4866227 .un,
+#chat .fromID-3862893 .un,
+#chat .id-3862893 .un,
+#chat .fromID-6603548 .un,
+#chat .id-6603548 .un {
+    color: #89BE6C;
+}
 .fromID-14935155 .msg .from .un:after,
 .id-14935155 .msg .from .un:after,
 .fromID-4866227 .msg .from .un:after,
@@ -10,18 +20,6 @@
     content: " "url("https://mitchdev.net/pdj/rdj.png") !important;
     top: 3px;
     position: relative;
-}
-#chat .fromID-3450925 .un,
-#chat .id-3450925 .un,
-#chat .fromID-14935155 .un,
-#chat .id-14935155 .un,
-#chat .fromID-4866227 .un,
-#chat .id-4866227 .un,
-#chat .fromID-3862893 .un,
-#chat .id-3862893 .un,
-#chat .fromID-6603548 .un,
-#chat .id-6603548 .un {
-    color: #89BE6C;
 }
 #chat .fromID-4538423 .un,
 #chat .id-4538423 .un,
