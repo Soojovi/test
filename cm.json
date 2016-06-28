@@ -29,11 +29,10 @@
 	    "cohost": "https://mitchdev.net/pdj/host.png",
 	    "manager": "https://mitchdev.net/pdj/manager.png",
 	    "bouncer": "https://mitchdev.net/pdj/bouncer.png",
-	    "rdj": "https://mitchdev.net/pdj/rdj.png", 
+	    "rdj": "https://mitchdev.net/pdj/rdj.png",
 	    "silversubscriber": null,
 	    "subscriber": null
 	},
-	"autocomplete": ["!ping", "test"],
 	"emotes": {
 		"attempt": "http://i.imgur.com/TUrADao.png"
 	}
