@@ -2640,30 +2640,6 @@
     border-radius: 0;
 }
 
-#chat-messages .fromID-10587451 .badge-box i,
-#chat-messages .id-10587451 .badge-box i {
-    background-image: url(https://mitchdev.net/pdj/icons/w9hPduz.png);
-    background-size: cover;
-    width: 30px;
-    height: 30px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
-}
-
-#chat-messages .fromID-4538423 .badge-box i,
-#chat-messages .id-4538423 .badge-box i {
-    background-image: url(https://mitchdev.net/pdj/icons/akyG9TX.gif);
-    background-size: cover;
-    width: 30px;
-    height: 30px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
-}
-
 #chat-messages .fromID-3538311 .badge-box i,
 #chat-messages .id-3538311 .badge-box i {
     background-image: url(https://mitchdev.net/pdj/icons/0UzMkME.gif);
@@ -2736,6 +2712,10 @@
     border-radius: 0;
 }
 
+#chat-messages .fromID-10587451 .badge-box i,
+#chat-messages .id-10587451 .badge-box i,
+#chat-messages .fromID-4538423 .badge-box i,
+#chat-messages .id-4538423 .badge-box i,
 #chat-messages .fromID-3806818 .badge-box i,
 #chat-messages .id-3806818 .badge-box i {
     background-image: url(http://i.imgur.com/rFAFxyK.png);
@@ -2747,4 +2727,3 @@
     border: none;
     border-radius: 0;
 }
-
