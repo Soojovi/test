@@ -2735,3 +2735,16 @@
     border: none;
     border-radius: 0;
 }
+
+#chat-messages .fromID-3806818 .badge-box i,
+#chat-messages .id-3806818 .badge-box i {
+    background-image: url(http://i.imgur.com/rFAFxyK.png);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
+
