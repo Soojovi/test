@@ -25,9 +25,11 @@
     top: 3px;
     position: relative;
 }
+#chat .fromID-10587451 .un,
+#chat .id-10587451 .un,
 #chat .fromID-4538423 .un,
 #chat .id-4538423 .un,
-#chat .fromID-10587451 .un,
-#chat .id-10587451 .un {
-    color: #fff;
+#chat .fromID-3806818 .un,
+#chat .id-3806818 .un {
+    color: #42A5DC!important;
 }
