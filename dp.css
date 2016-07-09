@@ -29,7 +29,7 @@
 }
 
 .icon-chat-host > span {
-    color: #FF3558 !important;
+    color: #a56eff !important;
 }
 
 #playlist-panel {
@@ -46,20 +46,20 @@
 }
 
 #playlist-button {
-    background: #FF3558 !important;
+    background: #a56eff !important;
 }
 
 #playlist-menu .menu .row.selected {
-    background: #39688D !important;
+    background: #a56eff !important;
 }
 
 .media-list .row.now-playing {
-    background: #FF3558 !important;
+    background: #a56eff !important;
     border-bottom: 1px solid #ff5f7c !important;
 }
 
 #playlist-menu .menu .row .count {
-    color: #FF3558 !important;
+    color: #a56eff !important;
 }
 
 #grab .bottom #grab.selected {
@@ -67,11 +67,11 @@
 }
 
 #footer-user .bar .progress {
-    background: #FF3558 !important;
+    background: #a56eff !important;
 }
 
 .experience .xp .bar .progress {
-    background: #FF3558 !important;
+    background: #a56eff !important;
 }
 
 .activate-button span {
@@ -83,30 +83,30 @@
 }
 
 #playlist-activate-button span {
-    color: #FF3558 !important;
+    color: #a56eff !important;
 }
 
 .media-list .row.now-playing .actions {
-    background: #FF3558 !important;
+    background: #a56eff !important;
 }
 
 .media-list .row.selected {
-    background: #39688D !important;
+    background: #a56eff !important;
 }
 
 .media-list .selected .actions {
-    background: #FF3558 !important;
+    background: #a56eff !important;
 }
 
 #user-lists .header .button.staff.selected {
-    border-bottom: 1px solid #FF3558 !important;
+    border-bottom: 1px solid #a56eff !important;
 }
 
 .dialog.destructive .button.submit {
 }
 
 #room-info .button.disabled {
-    background: #FF3558 !important;
+    background: #a56eff !important;
 }
 
 #room-info .button.enabled {
@@ -130,11 +130,11 @@
 }
 
 #playlist-delete-button:hover {
-    background: #c42e3b !important;
+    background: #64439c !important;
 }
 
 .tab-menu button.selected {
-    background: #FF3558 !important;
+    background: #a56eff !important;
 }
 
 #dj-button .left {
@@ -142,15 +142,15 @@
 }
 
 #dj-button.is-leave .left {
-    background: #FF3558 !important;
+    background: #f3663d !important;
 }
 
 #dj-button.is-quit .left {
-    background: #FF3558 !important;
+    background: #f3663d !important;
 }
 
 .delete-button:hover {
-    background: #FF3558 !important;
+    background: #a56eff !important;
 }
 
 .icon-plug-dj {
@@ -166,23 +166,23 @@
 }
 
 .icon-chat-host + span {
-    color: #FF3558 !important;
+    color: #a56eff !important;
 }
 
 .icon-chat-cohost + span {
-    color: #FF3558 !important;
+    color: #a56eff !important;
 }
 
 .icon-chat-manager + span {
-    color: #0191ff !important;
+    color: #a56eff !important;
 }
 
 .icon-chat-bouncer + span {
-    color: #01e1ff !important;
+    color: #a56eff !important;
 }
 
 .icon-chat-dj + span {
-    color: #89BE6C !important;
+    color: #a56eff !important;
 }
 
 #chat .emote #chat .mention #chat .message #chat .moderation #chat .skip #chat .system #chat .update #chat .welcome {
@@ -277,7 +277,7 @@
 }
 
 .drag-media-box {
-    background-color: #FF3558
+    background-color: #a56eff
 }
 
 body {
