@@ -2,7 +2,7 @@
 @import url("https://rawgit.com/Soojovi/dome/master/rdjs.css");
 
 #room-bar .icon-room {
-    background: url(https://mitchdev.net/pdj/cm.png);
+    background: url(http://i.imgur.com/w6YykiM.png);
 }
 
 #playback-container {
@@ -126,11 +126,11 @@
 }
 
 #playlist-shuffle-button:hover {
-    background: #0191ff !important;
+    background: #a56eff !important;
 }
 
 #playlist-delete-button:hover {
-    background: #64439c !important;
+    background: #f3663d !important;
 }
 
 .tab-menu button.selected {
