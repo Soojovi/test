@@ -1,6 +1,6 @@
 {
-	"room": "Chillout",
-	"css": "https://rawgit.com/PossiblyKris/test/master/cm.css",
+	"room": "Dome da Pantera",
+	"css": "https://rawgit.com/Soojovi/dome/master/dp.css",
 	"rules": {
 	    "allowAutorespond": true,
 	    "allowAutowoot": true,
