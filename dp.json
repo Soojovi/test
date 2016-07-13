@@ -22,7 +22,7 @@
 	},
 	"images": {
 	    "background": "http://i.imgur.com/gdUPEYb.png",
-	    "playback": "http://i.imgur.com/dF8btN5.png",
+	    "playback": null,
 	    "admin": null,
 	    "ambassador": null,
 	    "host": null,
