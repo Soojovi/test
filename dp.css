@@ -47,11 +47,11 @@
 }
 
 #playlist-button {
-    background: #a56eff !important;
+    background: #ff779a !important;
 }
 
 #playlist-menu .menu .row.selected {
-    background: #a56eff !important;
+    background: #ff779a !important;
 }
 
 .media-list .row.now-playing {
@@ -60,7 +60,7 @@
 }
 
 #playlist-menu .menu .row .count {
-    color: #a56eff !important;
+    color: #ff779a !important;
 }
 
 #grab .bottom #grab.selected {
@@ -68,11 +68,11 @@
 }
 
 #footer-user .bar .progress {
-    background: #a56eff !important;
+    background: #ff779a !important;
 }
 
 .experience .xp .bar .progress {
-    background: #a56eff !important;
+    background: #ff779a !important;
 }
 
 .activate-button span {
@@ -84,7 +84,7 @@
 }
 
 #playlist-activate-button span {
-    color: #a56eff !important;
+    color: #ff779a !important;
 }
 
 .media-list .row.now-playing .actions {
