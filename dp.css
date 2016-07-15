@@ -55,7 +55,7 @@
 }
 
 .media-list .row.now-playing {
-    background: #a56eff !important;
+    background: #ff779a !important;
     border-bottom: 1px solid #ff5f7c !important;
 }
 
@@ -88,15 +88,15 @@
 }
 
 .media-list .row.now-playing .actions {
-    background: #a56eff !important;
+    background: #ff779a !important;
 }
 
 .media-list .row.selected {
-    background: #a56eff !important;
+    background: #ff779a !important;
 }
 
 .media-list .selected .actions {
-    background: #a56eff !important;
+    background: #ff779a !important;
 }
 
 #user-lists .header .button.staff.selected {
@@ -107,11 +107,11 @@
 }
 
 #room-info .button.disabled {
-    background: #a56eff !important;
+    background: #ff779a !important;
 }
 
 #room-info .button.enabled {
-    background: #00afe4 !important;
+    background: #ff779a !important;
 }
 
 #playlist-create:hover {
