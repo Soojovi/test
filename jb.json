@@ -1,6 +1,6 @@
 {
-	"room": "Dome da Pantera",
-	"css": "https://rawgit.com/Soojovi/dome/master/dp.css",
+	"room": "The Jukebox",
+	"css": "https://rawgit.com/Soojovi/test/master/jb.css",
 	"rules": {
 	    "allowAutorespond": true,
 	    "allowAutowoot": true,
@@ -21,7 +21,7 @@
 	    "user": null
 	},
 	"images": {
-	    "background": "http://i.imgur.com/gdUPEYb.png",
+	    "background": "http://i.imgur.com/aLameNe.jpg",
 	    "playback": null,
 	    "admin": null,
 	    "ambassador": null,
