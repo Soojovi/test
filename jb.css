@@ -1,9 +1,9 @@
-@import url("https://rawgit.com/Soojovi/dome/master/userscopy.css");
-@import url("https://rawgit.com/Soojovi/dome/master/rdjs.css");
-@import url("https://rawgit.com/Soojovi/dome/master/alter.css");
+@import url("https://rawgit.com/Soojovi/test/master/userscopy.css");
+@import url("https://rawgit.com/Soojovi/test/master/rdjs.css");
+@import url("https://rawgit.com/Soojovi/test/master/alter.css");
 
 #room-bar .icon-room {
-    background: url(http://i.imgur.com/w6YykiM.png);
+    background: url(http://i.imgur.com/gX5lHJT.jpg);
 }
 
 #playback-container {
