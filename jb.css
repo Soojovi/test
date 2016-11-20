@@ -3,7 +3,7 @@
 @import url("https://rawgit.com/Soojovi/test/master/alter.css");
 
 #room-bar .icon-room {
-    background: url(http://i.imgur.com/gX5lHJT.jpg);
+    background: url(http://i.imgur.com/wzM1Kxk.png);
 }
 
 #playback-container {
@@ -47,20 +47,20 @@
 }
 
 #playlist-button {
-    background: #ff779a !important;
+    background: #a56eff !important;
 }
 
 #playlist-menu .menu .row.selected {
-    background: #ff779a !important;
+    background: #a56eff !important;
 }
 
 .media-list .row.now-playing {
-    background: #ff779a !important;
+    background: #a56eff !important;
     border-bottom: 1px solid #ff5f7c !important;
 }
 
 #playlist-menu .menu .row .count {
-    color: #ff779a !important;
+    color: #a56eff !important;
 }
 
 #grab .bottom #grab.selected {
@@ -68,11 +68,11 @@
 }
 
 #footer-user .bar .progress {
-    background: #ff779a !important;
+    background: #a56eff !important;
 }
 
 .experience .xp .bar .progress {
-    background: #ff779a !important;
+    background: #a56eff !important;
 }
 
 .activate-button span {
@@ -84,19 +84,19 @@
 }
 
 #playlist-activate-button span {
-    color: #ff779a !important;
+    color: #a56eff !important;
 }
 
 .media-list .row.now-playing .actions {
-    background: #ff779a !important;
+    background: #a56eff !important;
 }
 
 .media-list .row.selected {
-    background: #ff779a !important;
+    background: #a56eff !important;
 }
 
 .media-list .selected .actions {
-    background: #ff779a !important;
+    background: #a56eff !important;
 }
 
 #user-lists .header .button.staff.selected {
@@ -107,11 +107,11 @@
 }
 
 #room-info .button.disabled {
-    background: #ff779a !important;
+    background: #a56eff !important;
 }
 
 #room-info .button.enabled {
-    background: #ff779a !important;
+    background: #a56eff !important;
 }
 
 #playlist-create:hover {
